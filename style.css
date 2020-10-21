@@ -1,0 +1,59 @@
+h1 { 
+color: white ; 
+text-align: center;
+font-size: 45px
+font-weight:lighter;
+font-family:'Roboto', sans-serif;
+}
+
+h2{ 
+color: #106675;
+}
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+div {
+background-color: white;
+padding: 100px;
+margin:100px;
+text-align: center;
+}
+
+#banner{
+	text-align: center;
+	background-color: #a2ced4
+}
+
+
+div {
+background-color: white;
+padding: 50px;
+margin: 50px;
+border-radius: 5px
+text-align: center;
+align-items:center
+
+}
+
+body {
+color: #106675;
+front-size: 16px;
+background-color: #e1ebe3;
+font-family:'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 500;
+	color: #90b71a
+}
+
+a:hover{color: #7cd4dc;
+} 
+
+.img-circle {
+width: 150px;
+border-radius: 60%;
+}
+
+
+
